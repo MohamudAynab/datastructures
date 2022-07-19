@@ -7,6 +7,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+
 public class SumOfArray {
     public static void main(String[] args) {
         //Initialize array
